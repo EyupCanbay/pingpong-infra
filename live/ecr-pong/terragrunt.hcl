@@ -7,6 +7,6 @@ terraform {
 }
 
 inputs = {
-    repository_name = "pingpong-app"
+    repository_name = "pingpong-pong-service"
 }
 
