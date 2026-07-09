@@ -14,5 +14,8 @@ inputs = {
   
   app_namespace      = "pingpong" 
   ttl_seconds        = 60
-  max_ttl_seconds    = 3600
+  max_ttl_seconds    = 60
+
+  grafana_admin_password = "DENEMEşifresi124578!"
+  slack_webhook_url      = "https://hooks.slack.com/services/T000/B000/XXX"
 }

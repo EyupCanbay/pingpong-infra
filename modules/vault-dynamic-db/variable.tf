@@ -5,3 +5,5 @@ variable "db_password"            { type = string }
 variable "app_namespace"          { type = string }
 variable "ttl_seconds"            { type = number }
 variable "max_ttl_seconds"        { type = number }
+variable "grafana_admin_password" { type = string }
+variable "slack_webhook_url"      { type = string }
