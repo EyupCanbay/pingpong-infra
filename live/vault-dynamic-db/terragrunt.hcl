@@ -16,6 +16,6 @@ inputs = {
   ttl_seconds        = 60
   max_ttl_seconds    = 60
 
-  grafana_admin_password = "DENEMEşifresi124578!"
+  grafana_admin_password = "sifre123olsunMu"
   slack_webhook_url      = "https://hooks.slack.com/services/T000/B000/XXX"
 }
